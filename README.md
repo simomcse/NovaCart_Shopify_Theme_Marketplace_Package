@@ -66,4 +66,3 @@ Regular license = **one** live Shopify storefront unless your purchase explicitl
 
 © 2026 Hamdaoui Mohamed | NovaCart  
 All rights reserved.
-

@@ -1,0 +1,136 @@
+NOVACART SHOPIFY THEME
+Commercial License Agreement
+Version 1.6.7
+
+Publisher: Hamdaoui Mohamed | حمداوي محمد
+Product: NovaCart Shopify Theme
+
+------------------------------------------------------------
+1. GRANT OF LICENSE
+------------------------------------------------------------
+Subject to the terms of this Agreement and the applicable
+purchase terms of the platform where the Theme was obtained,
+the Publisher grants the Licensee a non-exclusive,
+non-transferable license to use the Theme as follows:
+
+REGULAR LICENSE (Standard)
+- Use the Theme on ONE (1) single Shopify store / end product.
+- The store may be owned by the Licensee or by a client of
+  the Licensee.
+- The Theme may be modified and customized for that single
+  end product.
+- The Licensee may use the Theme for commercial purposes
+  (selling products or services on the store).
+
+This license does NOT grant rights to:
+- Resell, redistribute, sublicense, or share the Theme
+  (original or modified) as a standalone product or as part
+  of a theme / template package.
+- Use the Theme on more than one Shopify store without
+  purchasing an additional license.
+- Claim ownership of the Theme or remove copyright notices.
+
+EXTENDED / MULTI-STORE LICENSE (if purchased)
+- If the marketplace listing or your purchase receipt explicitly
+  grants a multi-store or extended license, you may use the
+  Theme on the number of stores stated in that purchase.
+- All other restrictions in this Agreement still apply.
+
+------------------------------------------------------------
+2. OWNERSHIP
+------------------------------------------------------------
+The Theme and all associated intellectual property rights
+remain the exclusive property of the Publisher. This license
+does not transfer ownership. The Licensee receives only the
+limited rights expressly granted herein.
+
+------------------------------------------------------------
+3. PERMITTED USES
+------------------------------------------------------------
+The Licensee may:
+- Install and activate the Theme on one Shopify store
+  (or the number allowed by an extended license).
+- Customize colors, layouts, sections, and settings.
+- Combine the Theme with apps, plugins, or custom code
+  for that licensed store.
+- Create backups for personal archival use.
+
+------------------------------------------------------------
+4. RESTRICTIONS
+------------------------------------------------------------
+The Licensee may not:
+- Redistribute, resell, lease, or sublicense the Theme
+  (or derivatives) as a product, template, or service
+  deliverable to multiple unlicensed parties.
+- Place the Theme source files on a public repository
+  without prior written permission from the Publisher.
+- Use the Theme to create a competing theme product.
+- Remove or alter copyright, license, or attribution notices.
+
+------------------------------------------------------------
+5. THIRD-PARTY COMPONENTS
+------------------------------------------------------------
+The Theme may reference Shopify platform features and
+standard web technologies. Shopify, payment providers,
+and third-party apps are governed by their own terms.
+The Publisher is not responsible for third-party services.
+
+------------------------------------------------------------
+6. WARRANTY DISCLAIMER
+------------------------------------------------------------
+THE THEME IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+The Publisher does not guarantee uninterrupted operation or
+compatibility with every Shopify plan, app, or browser version.
+
+------------------------------------------------------------
+7. LIMITATION OF LIABILITY
+------------------------------------------------------------
+To the maximum extent permitted by law, the Publisher shall
+not be liable for any indirect, incidental, special, or
+consequential damages, or loss of profits, data, or business,
+arising from use of the Theme. Total liability shall not
+exceed the amount paid by the Licensee for the Theme license.
+
+------------------------------------------------------------
+8. SUPPORT
+------------------------------------------------------------
+Support is provided according to the SUPPORT.md file included
+with this package and the support policy of the sales channel
+where the Theme was purchased. Support covers the unmodified
+Theme as documented; custom development is not included
+unless agreed separately in writing.
+
+------------------------------------------------------------
+9. TERMINATION
+------------------------------------------------------------
+This license terminates automatically if the Licensee breaches
+its terms. Upon termination, the Licensee must stop using the
+Theme and destroy copies in their possession, except for
+backups required by law or legitimate archival needs.
+
+------------------------------------------------------------
+10. GOVERNING LAW
+------------------------------------------------------------
+This Agreement shall be governed by the laws of the jurisdiction
+in which the Publisher resides, without regard to conflict of
+law principles. The purchase terms of the platform where the
+Theme was bought may also apply and, where required by that
+platform, take precedence for purchase-related matters.
+
+------------------------------------------------------------
+11. ENTIRE AGREEMENT
+------------------------------------------------------------
+This document, together with the applicable marketplace or
+sales-channel purchase terms and the product documentation,
+constitutes the entire agreement between the parties
+concerning the Theme.
+
+------------------------------------------------------------
+By purchasing and downloading the Theme, the Licensee
+acknowledges that they have read, understood, and agree
+to be bound by this License Agreement.
+
+© 2026 Hamdaoui Mohamed | حمداوي محمد
+All rights reserved.
